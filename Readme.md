@@ -2,7 +2,11 @@
 
 Our family originally had a Dyson DC14 Animal vacuum cleaner, which worked well until it eventually died.  We then got a
 DC8+ Animal, which we like quite a bit, but still had all the old accessories.  My wife then asked me if I could design
-and print an adapter to use the old accessories with the new vacuum.
+and print an adapter to use the old accessories with the new vacuum.  This is that adapter.  
+
+![Connected](./img/connected.jpg)
+
+![Rendered](./img/render.png)
 
 # The Adapter
 
@@ -25,8 +29,8 @@ glued in to give the button some spring.  When it works, it seems to work pretty
 # Known Issues
 
 The biggest issue is the button on the dc8 connector, it's hard to get the button to work properly - so it's a work in
-progress.  I've found that friction tends to keep the adapter in the vacuum well enough for our use, but eventually a
-better solution needs to be found.
+progress.  I've found that friction tends to keep the adapter in the vacuum well enough for our use so I tend to just
+rip it off if it gives me problems, but eventually a better solution needs to be found.
 
 It does tend to snap if it gets twisted too hard, so it is a bit delicate.  I have had it snap inside the vacuum a few
 times, but a pair of pliers gets things out easily.
